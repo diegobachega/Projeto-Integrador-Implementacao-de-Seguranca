@@ -11,11 +11,11 @@ Justificativa:
 Um Firewall consiste em um filtro que controla todas as comunicações que passam de uma rede a outra, permitindo ou negando seu acesso a outra rede. Entre as várias ações de segurança capaz de implementação em um firewall pode-se citar o bloqueio de portas específicas, endereços IP, sites, ou mesmo pacotes de tipo/conteúdos específicos.
   
 Etapas:
-- Documentação Inicial: Documentação inicial no Git - Finalizado em 21/09.
+- Documentação Inicial: Documentação inicial no Git. Finalizado em 21/09.
  
-- Preparação do Ambiente Virtual ( Em andamento):	Revisão bibliográfica; Levantamento do tipo de firewall que será instalado; e Levantamento dos tipos de servidores que serão instalados.
+- Preparação do Ambiente Virtual:	Revisão bibliográfica; Levantamento do tipo de firewall que será instalado; e Levantamento dos tipos de servidores que serão instalados. Finalizado em 23/10
   
-- Instalação dos Servidores 1 e 2 ( A Iniciar) : Realizar instalação; e Validar instalação.
+- Instalação dos Servidores 1 e 2 (Em andamento): Realizar instalação; e Validar instalação.
   
 - Instalação do Firewall ( A Iniciar): Realizar instalação; e Validar instalação.
   
