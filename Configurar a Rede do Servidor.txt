@@ -1,0 +1,38 @@
+Cenários
+
+Configurar a rede
+Cenário 1 
+Servidor de Arquivos
+ou
+Servidor de Banco de dados
+ou
+Servidor Web
+
+Para este cenário, teremos uma única interface de rede.
+
+Cenário 2
+
+1 Servidor Linux Responsável pelo compartilhamento de Internet  e Segurança da rede local
+duas interfaces de rede
+
+--------------------------------------------------------------
+
+lspci mostra todos os dispositivos conectados ao servidor
+
+"ip address" ou "ip a" ou "ip addr" mesmo comando
+este comando da informações sobre os dipositivos e endereços de rede
+Observação: Loopback é uma interface de rede virtual que permite que um cliente e um servidor no mesmo host se comuniquem entre si. usando o protocolo tcp ip.  
+Para a interface de loopback é utilizado o endereço 127.0.0.1/8, o /8 equivale a  mascara 255.0.0.0
+
+vamos falar da interface enp03
+antigamente o linux atribuia nomes as interfaces de rede que começavam com eth
+eth0 principal
+eth1 kernel
+a partir do debian 9 temos uma nomenclatura diferente nas interfaces de rede. 
+o virtualbox identificou a placa de rede principal como enp0s3 
+
+comando lspci
+
+informação link/ether 
+ 
+dhclient

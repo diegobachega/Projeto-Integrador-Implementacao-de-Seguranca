@@ -1,0 +1,21 @@
+comando systemd-analyze
+tempo de carregamento do systema
+
+comando systemd-analize blame 
+mostra o tempo de carregamento de todos os processos do sistema
+
+comando hostnamectl
+mostra informações do sistema ( a distribuição, a versão do kernel, etc )
+
+comando systemctl
+exibe o status de todos os serviços do meu servidor.
+
+systemctl is-enable ssh.service
+systemctl disable ssh.service
+systemctl status ssh.service
+systemctl start ssh.service
+( podemos utilizar start stop status restart )
+
+
+Atenção o meu debian esta sem o ssh 
+

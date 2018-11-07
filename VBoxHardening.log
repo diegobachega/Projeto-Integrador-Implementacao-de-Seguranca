@@ -1,0 +1,253 @@
+137c48.137f0c: Log file opened: 5.2.20r125813 g_hStartupLog=0000000000000168 g_uNtVerCombined=0xa042ee00
+137c48.137f0c: \SystemRoot\System32\ntdll.dll:
+137c48.137f0c:     CreationTime:    2018-09-11T18:51:14.104402900Z
+137c48.137f0c:     LastWriteTime:   2018-08-09T04:53:50.386880400Z
+137c48.137f0c:     ChangeTime:      2018-10-10T15:07:55.141554400Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0x1db848
+137c48.137f0c:     NT Headers:      0xe8
+137c48.137f0c:     Timestamp:       0xa5a334d4
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0xa5a334d4
+137c48.137f0c:     Image Version:   10.0
+137c48.137f0c:     SizeOfImage:     0x1e1000 (1970176)
+137c48.137f0c:     Resource Dir:    0x174000 LB 0x6b3e8
+137c48.137f0c:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0x1740f0 LB 0x380, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     Microsoft® Windows® Operating System
+137c48.137f0c:     ProductVersion:  10.0.17134.254
+137c48.137f0c:     FileVersion:     10.0.17134.254 (WinBuild.160101.0800)
+137c48.137f0c:     FileDescription: NT Layer DLL
+137c48.137f0c: \SystemRoot\System32\kernel32.dll:
+137c48.137f0c:     CreationTime:    2018-04-11T23:34:40.510607900Z
+137c48.137f0c:     LastWriteTime:   2018-04-11T23:34:40.510607900Z
+137c48.137f0c:     ChangeTime:      2018-05-21T14:27:41.627869000Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0xafef8
+137c48.137f0c:     NT Headers:      0xe8
+137c48.137f0c:     Timestamp:       0x5f488a51
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x5f488a51
+137c48.137f0c:     Image Version:   10.0
+137c48.137f0c:     SizeOfImage:     0xb2000 (729088)
+137c48.137f0c:     Resource Dir:    0xb0000 LB 0x520
+137c48.137f0c:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0xb00b0 LB 0x3a4, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     Microsoft® Windows® Operating System
+137c48.137f0c:     ProductVersion:  10.0.17134.1
+137c48.137f0c:     FileVersion:     10.0.17134.1 (WinBuild.160101.0800)
+137c48.137f0c:     FileDescription: Windows NT BASE API Client DLL
+137c48.137f0c: \SystemRoot\System32\KernelBase.dll:
+137c48.137f0c:     CreationTime:    2018-10-10T15:01:33.868310400Z
+137c48.137f0c:     LastWriteTime:   2018-09-08T03:57:58.239817100Z
+137c48.137f0c:     ChangeTime:      2018-10-10T21:12:59.378247000Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0x273b78
+137c48.137f0c:     NT Headers:      0xf0
+137c48.137f0c:     Timestamp:       0x1e206b26
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x1e206b26
+137c48.137f0c:     Image Version:   10.0
+137c48.137f0c:     SizeOfImage:     0x273000 (2568192)
+137c48.137f0c:     Resource Dir:    0x251000 LB 0x548
+137c48.137f0c:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0x2510b0 LB 0x3bc, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     Microsoft® Windows® Operating System
+137c48.137f0c:     ProductVersion:  10.0.17134.319
+137c48.137f0c:     FileVersion:     10.0.17134.319 (WinBuild.160101.0800)
+137c48.137f0c:     FileDescription: Windows NT BASE API Client DLL
+137c48.137f0c: \SystemRoot\System32\apisetschema.dll:
+137c48.137f0c:     CreationTime:    2018-04-11T23:34:44.042150700Z
+137c48.137f0c:     LastWriteTime:   2018-04-11T23:34:44.042150700Z
+137c48.137f0c:     ChangeTime:      2018-05-21T13:45:04.272652900Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0x1bd98
+137c48.137f0c:     NT Headers:      0xd0
+137c48.137f0c:     Timestamp:       0xd02ff418
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0xd02ff418
+137c48.137f0c:     Image Version:   10.0
+137c48.137f0c:     SizeOfImage:     0x1c000 (114688)
+137c48.137f0c:     Resource Dir:    0x1b000 LB 0x408
+137c48.137f0c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0x1b060 LB 0x3a8, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     Microsoft® Windows® Operating System
+137c48.137f0c:     ProductVersion:  10.0.17134.1
+137c48.137f0c:     FileVersion:     10.0.17134.1 (WinBuild.160101.0800)
+137c48.137f0c:     FileDescription: ApiSet Schema DLL
+137c48.137f0c: NtOpenDirectoryObject failed on \Driver: 0xc0000022
+137c48.137f0c: supR3HardenedWinFindAdversaries: 0x40
+137c48.137f0c: \SystemRoot\System32\drivers\kl1.sys:
+137c48.137f0c:     CreationTime:    2016-10-01T05:26:00.000000000Z
+137c48.137f0c:     LastWriteTime:   2016-10-01T05:26:00.000000000Z
+137c48.137f0c:     ChangeTime:      2018-10-23T13:57:47.064258100Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0x875a8
+137c48.137f0c:     NT Headers:      0xe8
+137c48.137f0c:     Timestamp:       0x56fe83ac
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x56fe83ac
+137c48.137f0c:     Image Version:   0.0
+137c48.137f0c:     SizeOfImage:     0x709000 (7376896)
+137c48.137f0c:     Resource Dir:    0x707000 LB 0x448
+137c48.137f0c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x419)]
+137c48.137f0c:     [Raw version resource data: 0x707060 LB 0x3e4, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     Kaspersky Anti-Virus
+137c48.137f0c:     ProductVersion:  6.0.1.990
+137c48.137f0c:     FileVersion:     6.8.0.67
+137c48.137f0c:     FileDescription: Kaspersky Unified Driver
+137c48.137f0c: \SystemRoot\System32\drivers\klflt.sys:
+137c48.137f0c:     CreationTime:    2018-10-23T13:56:57.660169600Z
+137c48.137f0c:     LastWriteTime:   2018-10-23T14:15:53.584239700Z
+137c48.137f0c:     ChangeTime:      2018-10-23T14:15:53.584239700Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0x32ac8
+137c48.137f0c:     NT Headers:      0xf8
+137c48.137f0c:     Timestamp:       0x5aafbcf3
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x5aafbcf3
+137c48.137f0c:     Image Version:   6.2
+137c48.137f0c:     SizeOfImage:     0x40000 (262144)
+137c48.137f0c:     Resource Dir:    0x3e000 LB 0x418
+137c48.137f0c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0x3e060 LB 0x3b8, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     System Interceptors PDK
+137c48.137f0c:     ProductVersion:  13.0.60.0
+137c48.137f0c:     FileVersion:     13.0.60.0
+137c48.137f0c:     FileDescription: Filter Core [fre_win8_x64]
+137c48.137f0c: \SystemRoot\System32\drivers\klif.sys:
+137c48.137f0c:     CreationTime:    2018-10-23T13:56:57.669145100Z
+137c48.137f0c:     LastWriteTime:   2018-10-23T14:15:53.868450200Z
+137c48.137f0c:     ChangeTime:      2018-10-23T14:15:53.868450200Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0x102738
+137c48.137f0c:     NT Headers:      0x118
+137c48.137f0c:     Timestamp:       0x5ba229d0
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x5ba229d0
+137c48.137f0c:     Image Version:   6.2
+137c48.137f0c:     SizeOfImage:     0x107000 (1077248)
+137c48.137f0c:     Resource Dir:    0x103000 LB 0x2230
+137c48.137f0c:     [Version info resource found at 0x150! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0x103618 LB 0x3d8, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     System Interceptors PDK
+137c48.137f0c:     ProductVersion:  13.0.375.0
+137c48.137f0c:     FileVersion:     13.0.375.0
+137c48.137f0c:     FileDescription: Core System Interceptors [fre_win8_x64]
+137c48.137f0c: \SystemRoot\System32\drivers\klim6.sys:
+137c48.137f0c:     CreationTime:    2016-10-12T15:29:22.000000000Z
+137c48.137f0c:     LastWriteTime:   2018-10-23T14:15:00.001998800Z
+137c48.137f0c:     ChangeTime:      2018-10-23T14:17:45.545431400Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0xdec8
+137c48.137f0c:     NT Headers:      0x108
+137c48.137f0c:     Timestamp:       0x5a79ae73
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x5a79ae73
+137c48.137f0c:     Image Version:   6.2
+137c48.137f0c:     SizeOfImage:     0xc000 (49152)
+137c48.137f0c:     Resource Dir:    0xa000 LB 0x430
+137c48.137f0c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0xa060 LB 0x3cc, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     System Interceptors PDK
+137c48.137f0c:     ProductVersion:  14.0.0.18
+137c48.137f0c:     FileVersion:     14.0.0.18
+137c48.137f0c:     FileDescription: Packet Network Filter [fre_win8_x64]
+137c48.137f0c: \SystemRoot\System32\drivers\klkbdflt.sys:
+137c48.137f0c:     CreationTime:    2016-12-23T12:20:56.000000000Z
+137c48.137f0c:     LastWriteTime:   2016-12-23T12:20:56.000000000Z
+137c48.137f0c:     ChangeTime:      2018-10-23T13:57:48.596316100Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0xdee0
+137c48.137f0c:     NT Headers:      0xf8
+137c48.137f0c:     Timestamp:       0x5859ab5a
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x5859ab5a
+137c48.137f0c:     Image Version:   6.2
+137c48.137f0c:     SizeOfImage:     0xe000 (57344)
+137c48.137f0c:     Resource Dir:    0xc000 LB 0x438
+137c48.137f0c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0xc060 LB 0x3d4, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     System Interceptors PDK
+137c48.137f0c:     ProductVersion:  13.0.0.8
+137c48.137f0c:     FileVersion:     13.0.0.8
+137c48.137f0c:     FileDescription: Keyboard Device Filter [fre_win8_x64]
+137c48.137f0c: \SystemRoot\System32\drivers\klmouflt.sys:
+137c48.137f0c:     CreationTime:    2016-12-07T12:30:58.000000000Z
+137c48.137f0c:     LastWriteTime:   2016-12-07T12:30:58.000000000Z
+137c48.137f0c:     ChangeTime:      2018-10-23T13:57:48.335339700Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0xe4e0
+137c48.137f0c:     NT Headers:      0xf8
+137c48.137f0c:     Timestamp:       0x583e86b0
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x583e86b0
+137c48.137f0c:     Image Version:   6.2
+137c48.137f0c:     SizeOfImage:     0xf000 (61440)
+137c48.137f0c:     Resource Dir:    0xd000 LB 0x430
+137c48.137f0c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0xd060 LB 0x3d0, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     System Interceptors PDK
+137c48.137f0c:     ProductVersion:  13.0.0.5
+137c48.137f0c:     FileVersion:     13.0.0.5
+137c48.137f0c:     FileDescription: Mouse Device Filter [fre_win8_x64]
+137c48.137f0c: \SystemRoot\System32\drivers\kneps.sys:
+137c48.137f0c:     CreationTime:    2017-12-25T11:33:32.000000000Z
+137c48.137f0c:     LastWriteTime:   2017-12-25T11:33:32.000000000Z
+137c48.137f0c:     ChangeTime:      2018-10-23T13:57:50.569317600Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0x30ae0
+137c48.137f0c:     NT Headers:      0x110
+137c48.137f0c:     Timestamp:       0x5a0e923b
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x5a0e923b
+137c48.137f0c:     Image Version:   5.2
+137c48.137f0c:     SizeOfImage:     0x2d000 (184320)
+137c48.137f0c:     Resource Dir:    0x2b000 LB 0x428
+137c48.137f0c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0x2b060 LB 0x3c4, codepage 0x0 (reserved 0x0)]
+137c48.137f0c:     ProductName:     System Interceptors PDK
+137c48.137f0c:     ProductVersion:  13.0.0.40
+137c48.137f0c:     FileVersion:     13.0.0.40
+137c48.137f0c:     FileDescription: Network Processor [fre_wnet_x64]
+137c48.137f0c: \SystemRoot\System32\klfphc.dll:
+137c48.137f0c:     CreationTime:    2018-10-23T13:57:43.918596900Z
+137c48.137f0c:     LastWriteTime:   2013-05-06T11:13:26.000000000Z
+137c48.137f0c:     ChangeTime:      2018-10-23T13:57:07.914258600Z
+137c48.137f0c:     FileAttributes:  0x20
+137c48.137f0c:     Size:            0x1ae60
+137c48.137f0c:     NT Headers:      0xe8
+137c48.137f0c:     Timestamp:       0x51873bf2
+137c48.137f0c:     Machine:         0x8664 - amd64
+137c48.137f0c:     Timestamp:       0x51873bf2
+137c48.137f0c:     Image Version:   0.0
+137c48.137f0c:     SizeOfImage:     0x1d000 (118784)
+137c48.137f0c:     Resource Dir:    0x18000 LB 0x3c80
+137c48.137f0c:     [Version info resource found at 0x188! (ID/Name: 0x1; SubID/SubName: 0x409)]
+137c48.137f0c:     [Raw version resource data: 0x1b800 LB 0x324, codepage 0x4e4 (reserved 0x0)]
+137c48.137f0c:     ProductName:     Kaspersky™ Anti-Virus ®
+137c48.137f0c:     ProductVersion:  1.0.0.12
+137c48.137f0c:     FileVersion:     1.0.0.12
+137c48.137f0c:     FileDescription: Filtering Platform Helper Class
+137c48.137f0c: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+137c48.137f0c: Calling main()
+137c48.137f0c: SUPR3HardenedMain: pszProgName=VirtualBox fFlags=0x2
+137c48.137f0c: supR3HardenedWinInitAppBin(0x2): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+137c48.137f0c: SUPR3HardenedMain: Respawn #1
+137c48.137f0c: System32:  \Device\HarddiskVolume3\Windows\System32
+137c48.137f0c: WinSxS:    \Device\HarddiskVolume3\Windows\WinSxS
+137c48.137f0c: KnownDllPath: C:\WINDOWS\System32
+137c48.137f0c: '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBox.exe' has no imports
+137c48.137f0c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBox.exe)
+137c48.137f0c: supR3HardNtEnableThreadCreation:
+137c48.137f0c: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ffade2a2ff0 pvNtTerminateThread=00007ffade2ca940
+137c48.137f0c: supR3HardenedWinDoReSpawn(1): New child 138634.13604c [kernel32].
+137c48.137f0c: supR3HardNtChildGatherData: PebBaseAddress=000000000099c000 cbPeb=0x388
+137c48.137f0c: supR3HardNtPuChFindNtdll: uNtDllParentAddr=00007ffade230000 uNtDllChildAddr=00007ffade230000
+137c48.137f0c: supR3HardenedWinSetupChildInit: uLdrInitThunk=00007ffade2a2ff0
+137c48.137f0c: supR3HardenedWinSetupChildInit: Start child.
+137c48.137f0c: Error (rc=258):
+137c48.137f0c: Timed out after 3126 ms waiting for child request #0 (PurifyChildAndCloseHandles).
+137c48.137f0c: Error 258 in supR3HardNtChildWaitFor! (enmWhat=5)
+137c48.137f0c: Timed out after 3126 ms waiting for child request #0 (PurifyChildAndCloseHandles).
+137c48.137f0c: supR3HardNtEnableThreadCreation:
