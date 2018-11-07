@@ -15,9 +15,9 @@ Etapas:
  
 - Preparação do Ambiente Virtual:	Revisão bibliográfica; Levantamento do tipo de firewall que será instalado; e Levantamento dos tipos de servidores que serão instalados. Finalizado em 23/10
   
-- Instalação dos Servidores 1 e 2 (Em andamento): Realizar instalação; e Validar instalação.
+- Instalação dos Servidores 1 e 2 (Em andamento): Realizar instalação; e Validar instalação. Finalizado em 04/11
   
-- Instalação do Firewall ( A Iniciar): Realizar instalação; e Validar instalação.
+- Instalação do Firewall (Em andamento): Realizar instalação; e Validar instalação.
   
 - Entrega do Projeto em 16/11.
  
