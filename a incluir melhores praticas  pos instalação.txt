@@ -1,0 +1,36 @@
+
+Configurando a sources.list do Debian 9 "Stretch"
+ Atualizando o sistema
+ Deixando o Debian totalmente em português
+ Instalando os codecs multimídia
+ Instalando players de mídia
+ Suporte à extração e compressão de arquivos
+ Instale o Gerenciador de Pacotes Synaptic
+ Instale o GDebi
+ Instalando o MEGA Sync Client
+ Instale o Dropbox no Debian
+ Instalando um gerenciador de downloads e um cliente de torrents
+ Instalando o Spotify no Debian
+ Instalando o Skype no Debian
+ Instalando o Telegram Desktop no Debian
+ Instalando o Oracle VM VirtualBox no Debian
+ Instalando o VMware Workstation Player no Debian
+ Instalando os drivers proprietários para sua placa de vídeo
+ Instalando o Steam no Debian
+ Instale outros navegadores
+ Instalando o Adobe Flash Player no Debian
+ Instalando o OpenJDK no Debian (o Java de código aberto)
+ Instalando o Oracle Java (JDK) no Debian
+ Instalando o GParted e outras ferramentas úteis no Debian
+ Habilitando o sudo no Debian 9 "Stretch" (opcional)
+
+Debian é uma das distribuições Linux mais antigas e populares que começou nos anos 90 com um grupo pequeno de desenvolvedores de Software Livre e cresceu gradualmente para se tornar uma comunidade grande e bem organizada de desenvolvedores e usuários. Existe uma combinação da filosofia e a metodologia do Debian, o kernel do Linux e outros softwares livres importantes formam uma distribuição de software única chamada Debian GNU/Linux. Esta distribuição é composta por um grande número de pacotes de softwares. Cada pacote na distribuição contém executáveis, scripts, documentação e informações de configuração, e tem um mantenedor que é o principal responsável por manter o pacote atualizado, rastrear relatórios de bugs e comunicar-se com os colaboradores que juntos fazem um trablho de rastreamento de erros e garantem que os problemas sejam encontrados e corrigidos e distribuidos rapidamente com das opções de atualização automatica.
+
+
+
+
+Na maioria dos casos, não é necessário baixar e usar todas essas imagens para poder instalar o Debian no seu computador. O Debian vem com um conjunto massivo de pacotes de software, por isso é necessário muitos discos para um conjunto completo. A maioria dos usuários típicos só precisa de um pequeno subconjunto desses pacotes de software.
+
+Inicialmente, você só precisa fazer o download e usar a primeira imagem de um jogo (rotulado como para ser capaz de iniciar o instalador Debian e configurar o Debian em seu computador. Se houver mais imagens disponíveis aqui (rotulado , etc.), eles contêm os pacotes extras que podem ser instalados em um sistema Debian (como mencionado anteriormente) .Eles não serão inicializáveis ??e são totalmente opcionais.Se você tiver uma conexão rápida com a Internet, é melhor instalar quaisquer pacotes extras desejados diretamente dos espelhos do Debian na Internet, em vez de usar essas imagens extras.debian-something-1debian-something-2debian-something-3
+
+Como posso ve
