@@ -19,7 +19,7 @@ Etapas:
   
 - Instalação do Firewall (Em andamento): Realizar instalação; e Validar instalação. Finalizado em 18/11 
   
-- Entrega do Projeto prevista para 16/11. Finalizado em 22/11 
+- Entrega do Projeto prevista para 16/11. Finalizado em 23/11 
  
 Conclusão: 
 A empresa fictícia irá possuir em suas instalações dois servidores virtuais e três estações de trabalho. E será instalado um firewall appliance para garantir maior proteção aos dois servidores. Desta forma, será possível fazer a filtragem das informações que estarão trafegando pela rede e receber avisos de possíveis ataques.
