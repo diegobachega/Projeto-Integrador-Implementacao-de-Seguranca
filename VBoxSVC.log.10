@@ -1,0 +1,273 @@
+VirtualBox COM Server 5.2.22 r126460 win.amd64 (Nov  8 2018 19:34:58) release log
+00:00:00.046879 main     Log opened 2018-11-20T23:21:13.816336200Z
+00:00:00.046879 main     Build Type: release
+00:00:00.046879 main     OS Product: Windows 10
+00:00:00.046879 main     OS Release: 10.0.16299
+00:00:00.046879 main     OS Service Pack: 
+00:00:00.343766 main     DMI Product Name: POS-EIBTPDC
+00:00:00.359392 main     DMI Product Version: 1.0
+00:00:00.359392 main     Host RAM: 3984MB (3.8GB) total, 2743MB (2.6GB) available
+00:00:00.359392 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.359392 main     Process ID: 2776
+00:00:00.359392 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.375015          VirtualBox: object creation starts
+00:00:00.375015          Home directory: 'C:\Users\CONAMAD\.VirtualBox'
+00:00:00.375015          Installed Drivers:
+00:00:00.375015            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.2.22.26460)
+00:00:00.375015            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.2.22.26460)
+00:00:00.375015            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 5.2.22.26460)
+00:00:00.390641          Loading settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.390641          usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+00:00:00.718780          HostDnsMonitor: old information
+00:00:00.718780            no server entries
+00:00:00.718780            no domain set
+00:00:00.718780            no search string entries
+00:00:00.718780          HostDnsMonitor: new information
+00:00:00.718780            server 1: 192.168.15.1
+00:00:00.718780            server 2: 8.8.8.8
+00:00:00.718780            no domain set
+00:00:00.718780            no search string entries
+00:00:00.718780          HostDnsMonitorProxy::notify
+00:00:00.859413          VD: VDInit finished with VINF_SUCCESS
+00:00:00.875037          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+00:00:00.875037          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.875037          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop2\Desktop2.vbox' for reading: -103 (Path not found.).
+00:00:00.875037          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.875037          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop3\Desktop3.vbox' for reading: -103 (Path not found.).
+00:00:00.875037          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.890665          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\Pfsense\Pfsense.vbox" with version "1.15-windows"
+00:00:00.890665          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Servidor Zabbix\Servido Zabbix.vbox' for reading: -103 (Path not found.).
+00:00:00.890665          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.906291          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor de Impressão\Servidor de Impressão.vbox" with version "1.16-windows"
+00:00:00.937543          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\PfSense2\PfSense2.vbox" with version "1.15-windows"
+00:00:00.968794          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+00:00:00.968794          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+00:00:00.984416          VirtualBox: object created
+00:00:01.812576          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+00:00:01.812576          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:01.812576          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+00:00:01.812576          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:01.875079          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+00:00:01.875079          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.234471          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop2\Desktop2.vbox' for reading: -103 (Path not found.).
+00:00:02.234471          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.234471          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop2\Desktop2.vbox' for reading: -103 (Path not found.).
+00:00:02.234471          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.234471          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop2\Desktop2.vbox' for reading: -103 (Path not found.).
+00:00:02.234471          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.234471          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop3\Desktop3.vbox' for reading: -103 (Path not found.).
+00:00:02.234471          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.234471          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop3\Desktop3.vbox' for reading: -103 (Path not found.).
+00:00:02.234471          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.250097          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop3\Desktop3.vbox' for reading: -103 (Path not found.).
+00:00:02.250097          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.281349          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Servidor Zabbix\Servido Zabbix.vbox' for reading: -103 (Path not found.).
+00:00:02.281349          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.281349          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Servidor Zabbix\Servido Zabbix.vbox' for reading: -103 (Path not found.).
+00:00:02.281349          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.281349          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Servidor Zabbix\Servido Zabbix.vbox' for reading: -103 (Path not found.).
+00:00:02.281349          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.296975          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:02.296975          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:02.296975          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:02.296975          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:15.785178          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:21.880674          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+01:22:16.926606          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:22:16.931491          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.932468          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:16.941258          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.941258          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:16.943214          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.943214          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:16.944192          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:22:16.946144          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:22:16.951029          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.951029          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:16.955913          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.955913          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:16.958879          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.958879          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:16.961381          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.961381          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:16.966390          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.966390          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:16.968892          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={Runtime error opening 'E:\Projeto Integrador\Desktop1\Desktop1.vbox' for reading: -103 (Path not found.).
+01:22:16.968892          F:\tinderbox\win-5.2\src\VBox\Main\src-server\MachineImpl.cpp[743] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+01:22:30.823579          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:22:31.510160          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+01:22:32.110147          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Could not open the medium 'E:\Projeto Integrador\ServidorImpressão\debia2.vdi'.
+01:22:32.110147          VD: error VERR_PATH_NOT_FOUND opening image file 'E:\Projeto Integrador\ServidorImpressão\debia2.vdi' (VERR_PATH_NOT_FOUND)}, preserve=true  aResultDetail=0
+01:22:32.119526          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor de Impressão\Servidor de Impressão.vbox" with version "1.16-windows"
+01:22:59.125417          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:22:59.792295          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+01:50:44.803785          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:50:44.803785          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:50:44.803785          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:50:44.803785          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:50:44.868292          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:50:44.868791          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:50:44.868791          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:50:44.868791          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:03.401746          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:03.401746          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:03.401746          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:03.401746          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:03.479361          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:03.479361          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:03.479862          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:03.479862          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:25.505425          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+01:51:25.656098          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+01:51:34.453212          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:34.453212          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:34.453212          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:34.453714          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:34.526113          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:34.526113          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:34.526113          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:34.526113          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:51:46.773167          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+01:52:22.409076          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:52:22.409076          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:52:22.409076          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:52:22.409076          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:52:22.477277          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:52:22.477277          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:52:22.477277          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:52:22.477277          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:04.839413          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+01:54:04.979861          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+01:54:12.187588          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:12.187588          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:12.187588          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:12.187588          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:12.265718          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:12.265718          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:12.265718          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:12.265718          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:27.278908          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+01:54:31.077682          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:31.077682          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:31.077682          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:31.077682          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:31.140185          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:31.140185          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:31.140185          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:31.140185          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+01:54:45.174008          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+01:55:00.153531          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:55:00.783628          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+01:58:52.635548          ERROR [COM]: aRC=VBOX_E_INVALID_OBJECT_STATE (0x80bb0007) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The machine 'Servidor' is already locked by a session (or being locked or unlocked)}, preserve=false aResultDetail=0
+01:58:52.826551          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:58:55.017159          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+03:18:19.330135          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+03:18:19.592934          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+03:18:25.134614          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+03:18:25.282094          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+03:18:25.685287          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+03:19:19.675013          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+03:19:19.725023          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+03:19:25.653556          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+03:19:25.684816          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:25.747318          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+03:19:25.841075          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+03:19:30.191160          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:30.191160          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:30.191160          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:30.191160          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:30.253665          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:30.253665          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:30.253665          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:30.253665          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:19:41.877758          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+03:19:42.509807          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+03:20:24.431115          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+03:20:58.542255          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+03:27:47.225894          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:27:47.480613          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:27:47.481591          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:27:47.712953          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:27:49.795358          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:27:49.795358          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:27:49.795358          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:27:49.795358          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:31:53.356408          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+03:41:57.125958          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+03:42:33.823471          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+03:42:36.714521          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+03:42:43.603267          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+03:42:46.558080          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+03:42:46.917715          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+03:43:00.220390          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:00.236014          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:00.236014          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:00.236014          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:00.298519          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:00.298519          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:00.298519          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:00.298519          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:08.951773          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+03:43:13.747865          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:13.747865          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:13.747865          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:13.747865          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:13.841619          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:13.841619          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:13.841619          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:13.841619          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:20.995697          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+03:43:24.627841          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:24.627841          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:24.627841          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:24.627841          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:24.705969          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:24.705969          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:24.705969          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:24.705969          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+03:43:34.009674          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+03:44:15.524859 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+10:53:30.824624 Watcher  Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktopx\Desktopx.vbox" with version "1.16-windows"
+10:54:43.426989 Watcher  Reaper: Pid 1648 (670) exited normally: -1073741819 (0xc0000005)
+10:56:03.122419          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:56:03.322060          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:56:03.326866          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:56:03.326866          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:56:03.395231          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:56:03.395231          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:56:03.395730          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:56:03.395730          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:56:55.652658          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+10:57:03.356611          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:57:03.356611          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:57:03.356611          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:57:03.357586          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:57:03.436714          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:57:03.437691          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:57:03.437691          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:57:03.437691          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+10:57:34.032743          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+10:57:50.693662          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+10:57:51.718393          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+10:57:53.363293          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+10:57:53.942108          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+10:58:14.518822          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+10:58:15.153800          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+10:58:16.133379          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\Servidor\Servidor.vbox" with version "1.16-windows"
+10:58:38.960939          Saving settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+10:58:43.088024          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+10:58:43.387817          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+10:58:43.655503          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+10:58:43.708080          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"

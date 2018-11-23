@@ -1,0 +1,54 @@
+VirtualBox COM Server 5.2.22 r126460 win.amd64 (Nov  8 2018 19:34:58) release log
+00:00:00.015626 main     Log opened 2018-11-23T12:13:56.117907100Z
+00:00:00.015626 main     Build Type: release
+00:00:00.015626 main     OS Product: Windows 10
+00:00:00.015626 main     OS Release: 10.0.16299
+00:00:00.015626 main     OS Service Pack: 
+00:00:00.156260 main     DMI Product Name: POS-EIBTPDC
+00:00:00.187512 main     DMI Product Version: 1.0
+00:00:00.187512 main     Host RAM: 3984MB (3.8GB) total, 2523MB (2.4GB) available
+00:00:00.187512 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.187512 main     Process ID: 1680
+00:00:00.187512 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.187512          VirtualBox: object creation starts
+00:00:00.187512          Home directory: 'C:\Users\CONAMAD\.VirtualBox'
+00:00:00.187512          Installed Drivers:
+00:00:00.187512            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.2.22.26460)
+00:00:00.203138            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.2.22.26460)
+00:00:00.203138            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 5.2.22.26460)
+00:00:00.203138          Loading settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.311625          usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+00:00:00.488589          HostDnsMonitor: old information
+00:00:00.488589            no server entries
+00:00:00.488589            no domain set
+00:00:00.488589            no search string entries
+00:00:00.488589          HostDnsMonitor: new information
+00:00:00.488589            server 1: 192.168.15.1
+00:00:00.488589            server 2: 8.8.8.8
+00:00:00.488589            no domain set
+00:00:00.488589            no search string entries
+00:00:00.488589          HostDnsMonitorProxy::notify
+00:00:00.630711          VD: VDInit finished with VINF_SUCCESS
+00:00:00.638722          Loading settings file "E:\Projeto Integrador\Desktop2\Desktop2.vbox" with version "1.16-windows"
+00:00:00.638722          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\Pfsense\Pfsense.vbox" with version "1.15-windows"
+00:00:00.654824          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\DesktopW\DesktopW.vbox" with version "1.15-windows"
+00:00:00.654824          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\ServidorZabbix\ServidorZabbix.vbox" with version "1.16-windows"
+00:00:00.654824          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\ServidorSamba\ServidorSamba.vbox" with version "1.16-windows"
+00:00:00.670452          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktop1\Desktop1.vbox" with version "1.16-windows"
+00:00:00.686078          Loading settings file "C:\Users\CONAMAD\VirtualBox VMs\Desktop3\Desktop3.vbox" with version "1.16-windows"
+00:00:00.686078          VirtualBox: object created
+00:00:02.723646          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.770532          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:01:03.518219 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+01:01:07.302973 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+01:01:08.830313 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+01:01:13.602454 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+01:01:13.619981 USBPROXY USB: Unknown USB device detected (idVendor: 0x1f75, idProduct: 0x0621)
+01:01:16.861926 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+01:01:19.430270 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail dwErr (31)
+01:15:40.207599          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={An unexpected process (PID=0x00002328) has tried to lock the machine 'ServidorSamba', while only the process started by LaunchVMProcess (PID=0x000015E4) is allowed}, preserve=false aResultDetail=0
+01:15:45.201036          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:15:45.878043          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+01:34:49.165758          Saving settings file "C:\Users\CONAMAD\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:34:56.285002          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:34:56.939534          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
