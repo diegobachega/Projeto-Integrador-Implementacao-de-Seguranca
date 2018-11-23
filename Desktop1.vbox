@@ -6,87 +6,18 @@
 ** Use VBoxManage or the VirtualBox Manager GUI to make changes.
 -->
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.16-windows">
-  <Machine uuid="{7007d28b-5a83-491c-b95b-5aa46ae735d9}" name="Desktop1" OSType="Debian_64" currentSnapshot="{5763b182-be22-4be1-a111-b0f5004706d0}" snapshotFolder="Snapshots" lastStateChange="2018-11-21T10:51:50Z">
+  <Machine uuid="{7007d28b-5a83-491c-b95b-5aa46ae735d9}" name="Desktop1" OSType="Debian_64" snapshotFolder="Snapshots" lastStateChange="2018-11-07T01:44:41Z">
     <MediaRegistry>
-      <DVDImages>
-        <Image uuid="{b092e757-db24-4c9d-b044-ac3699abef4e}" location="C:/Program Files/Oracle/VirtualBox/VBoxGuestAdditions.iso"/>
-        <Image uuid="{b39cefcb-804c-408b-a080-9b0f7926681d}" location="VBoxGuestAdditions.iso"/>
-        <Image uuid="{9bfe51f8-573b-4b1b-b107-198902730967}" location="I:/IESB/Curso Superior de Tecnologia em Seguran&#xE7;a da Informa&#xE7;&#xE3;o/2018/2&#xBA; Semestre/Projeto Integrador Implementa&#xE7;&#xE3;o de Seguran&#xE7;a/PSENSE E DEBIAN/debian-9.5.0-amd64-DVD-1.iso"/>
-      </DVDImages>
+      <HardDisks>
+        <HardDisk uuid="{52e6e21c-22ab-4efb-b6eb-20610900c97b}" location="Desktop1-disk1.vdi" format="VDI" type="Normal"/>
+      </HardDisks>
     </MediaRegistry>
     <ExtraData>
-      <ExtraDataItem name="GUI/LastCloseAction" value="PowerOff"/>
-      <ExtraDataItem name="GUI/LastNormalWindowPosition" value="-2,23,720,442"/>
+      <ExtraDataItem name="GUI/LastNormalWindowPosition" value="0,23,640,480,max"/>
       <ExtraDataItem name="GUI/RestrictedRuntimeDevicesMenuActions" value="HardDrives"/>
       <ExtraDataItem name="GUI/RestrictedRuntimeMachineMenuActions" value="SaveState,PowerOff"/>
       <ExtraDataItem name="GUI/StatusBar/IndicatorOrder" value="HardDisks,OpticalDisks,FloppyDisks,Network,USB,SharedFolders,Display,VideoCapture,Features,Mouse,Keyboard"/>
     </ExtraData>
-    <Snapshot uuid="{5763b182-be22-4be1-a111-b0f5004706d0}" name="Google Chrome" timeStamp="2018-11-19T02:32:43Z" stateFile="Snapshots/2018-11-19T02-32-43-920475400Z.sav">
-      <Hardware>
-        <CPU>
-          <PAE enabled="false"/>
-          <LongMode enabled="true"/>
-          <X2APIC enabled="true"/>
-          <HardwareVirtExLargePages enabled="true"/>
-        </CPU>
-        <Memory RAMSize="1024"/>
-        <HID Pointing="USBTablet"/>
-        <Display VRAMSize="16"/>
-        <VideoCapture fps="25" options="ac_enabled=false"/>
-        <BIOS>
-          <IOAPIC enabled="true"/>
-        </BIOS>
-        <USB>
-          <Controllers>
-            <Controller name="OHCI" type="OHCI"/>
-          </Controllers>
-        </USB>
-        <Network>
-          <Adapter slot="0" enabled="true" MACAddress="08002744319E" promiscuousModePolicy="AllowAll" type="82540EM">
-            <DisabledModes>
-              <NATNetwork name="NatNetwork"/>
-            </DisabledModes>
-            <InternalNetwork name="intnet"/>
-          </Adapter>
-          <Adapter slot="1" enabled="true" MACAddress="080027491447" promiscuousModePolicy="AllowAll" type="82540EM">
-            <DisabledModes>
-              <InternalNetwork name="intnet"/>
-              <HostOnlyInterface name="VirtualBox Host-Only Ethernet Adapter #2"/>
-              <NATNetwork name="NatNetwork"/>
-            </DisabledModes>
-            <NAT/>
-          </Adapter>
-          <Adapter slot="2" MACAddress="08002797ABAD" type="82540EM"/>
-          <Adapter slot="3" MACAddress="08002785B628" type="82540EM"/>
-          <Adapter slot="4" MACAddress="080027941C5A" type="82540EM"/>
-          <Adapter slot="5" MACAddress="080027052FAB" type="82540EM"/>
-          <Adapter slot="6" MACAddress="080027727B08" type="82540EM"/>
-          <Adapter slot="7" MACAddress="080027CF798C" type="82540EM"/>
-        </Network>
-        <AudioAdapter codec="AD1980" driver="DirectSound" enabled="true"/>
-        <RTC localOrUTC="UTC"/>
-        <SharedFolders>
-          <SharedFolder name="Desktop1" hostPath="E:\Projeto Integrador\Desktop1" writable="true" autoMount="true"/>
-        </SharedFolders>
-        <Clipboard mode="Bidirectional"/>
-        <DragAndDrop mode="Bidirectional"/>
-        <GuestProperties>
-          <GuestProperty name="/VirtualBox/HostInfo/GUI/LanguageID" value="pt_BR" timestamp="1542594743471617100" flags="RDONLYGUEST"/>
-        </GuestProperties>
-      </Hardware>
-      <StorageControllers>
-        <StorageController name="IDE" type="PIIX4" PortCount="2" useHostIOCache="true" Bootable="true">
-          <AttachedDevice passthrough="false" type="DVD" hotpluggable="false" port="0" device="0">
-            <Image uuid="{b39cefcb-804c-408b-a080-9b0f7926681d}"/>
-          </AttachedDevice>
-        </StorageController>
-        <StorageController name="SATA" type="AHCI" PortCount="1" useHostIOCache="false" Bootable="true" IDE0MasterEmulationPort="0" IDE0SlaveEmulationPort="1" IDE1MasterEmulationPort="2" IDE1SlaveEmulationPort="3">
-          <AttachedDevice type="HardDisk" hotpluggable="false" port="0" device="0">
-            <Image uuid="{52e6e21c-22ab-4efb-b6eb-20610900c97b}"/>
-          </AttachedDevice>
-        </StorageController>
-      </StorageControllers>
-    </Snapshot>
     <Hardware>
       <CPU>
         <PAE enabled="false"/>
@@ -97,7 +28,6 @@
       <Memory RAMSize="1024"/>
       <HID Pointing="USBTablet"/>
       <Display VRAMSize="16"/>
-      <VideoCapture fps="25" options="ac_enabled=false"/>
       <BIOS>
         <IOAPIC enabled="true"/>
       </BIOS>
@@ -107,19 +37,17 @@
         </Controllers>
       </USB>
       <Network>
-        <Adapter slot="0" enabled="true" MACAddress="08002744319E" promiscuousModePolicy="AllowAll" type="82540EM">
+        <Adapter slot="0" enabled="true" MACAddress="08002744319E" type="82540EM">
           <DisabledModes>
             <NATNetwork name="NatNetwork"/>
           </DisabledModes>
           <InternalNetwork name="intnet"/>
         </Adapter>
-        <Adapter slot="1" enabled="true" MACAddress="080027491447" promiscuousModePolicy="AllowAll" type="82540EM">
+        <Adapter slot="1" MACAddress="080027491447" type="82540EM">
           <DisabledModes>
-            <InternalNetwork name="intnet"/>
-            <HostOnlyInterface name="VirtualBox Host-Only Ethernet Adapter #2"/>
             <NATNetwork name="NatNetwork"/>
           </DisabledModes>
-          <NAT/>
+          <InternalNetwork name="intnet"/>
         </Adapter>
         <Adapter slot="2" MACAddress="08002797ABAD" type="82540EM"/>
         <Adapter slot="3" MACAddress="08002785B628" type="82540EM"/>
@@ -130,24 +58,15 @@
       </Network>
       <AudioAdapter codec="AD1980" driver="DirectSound" enabled="true"/>
       <RTC localOrUTC="UTC"/>
-      <SharedFolders>
-        <SharedFolder name="Desktop1" hostPath="E:\Projeto Integrador\Desktop1" writable="true" autoMount="true"/>
-      </SharedFolders>
-      <Clipboard mode="Bidirectional"/>
-      <DragAndDrop mode="Bidirectional"/>
       <GuestProperties>
-        <GuestProperty name="/VirtualBox/HostInfo/GUI/LanguageID" value="pt_BR" timestamp="1542797513638280700" flags=""/>
+        <GuestProperty name="/VirtualBox/HostInfo/GUI/LanguageID" value="pt_BR" timestamp="1541555081403706400" flags=""/>
       </GuestProperties>
     </Hardware>
     <StorageControllers>
-      <StorageController name="IDE" type="PIIX4" PortCount="2" useHostIOCache="true" Bootable="true">
-        <AttachedDevice passthrough="false" type="DVD" hotpluggable="false" port="0" device="0">
-          <Image uuid="{b39cefcb-804c-408b-a080-9b0f7926681d}"/>
-        </AttachedDevice>
-      </StorageController>
+      <StorageController name="IDE" type="PIIX4" PortCount="2" useHostIOCache="true" Bootable="true"/>
       <StorageController name="SATA" type="AHCI" PortCount="1" useHostIOCache="false" Bootable="true" IDE0MasterEmulationPort="0" IDE0SlaveEmulationPort="1" IDE1MasterEmulationPort="2" IDE1SlaveEmulationPort="3">
         <AttachedDevice type="HardDisk" hotpluggable="false" port="0" device="0">
-          <Image uuid="{8fc97750-0cf5-423c-99a0-c6066cf71dfb}"/>
+          <Image uuid="{52e6e21c-22ab-4efb-b6eb-20610900c97b}"/>
         </AttachedDevice>
       </StorageController>
     </StorageControllers>
